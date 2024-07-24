@@ -8,5 +8,5 @@ management:
         include:
           - '*'
 greeting-service: #criando propriedade customizada.
-  greeting: "Ciaossu"
+  greeting: "Hola"
   default-value: "Sekai"    
