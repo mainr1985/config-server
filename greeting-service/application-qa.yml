@@ -8,10 +8,5 @@ management:
         include:
           - '*'
 greeting-service: #criando propriedade customizada.
-<<<<<<< HEAD
   greeting: "Olá"
   default-value: "Mundo"    
-=======
-  greeting: "Hey"
-  default-value: "Mundo"    
->>>>>>> b116bd3e3c933e8eb1b25dfc1c45f462b12daa5e
