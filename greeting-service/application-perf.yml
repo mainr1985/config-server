@@ -9,4 +9,8 @@ management:
           - '*'
 greeting-service: #criando propriedade customizada.
   greeting: "ohayo"
+<<<<<<< HEAD
   default-value: "Mundo"    
+=======
+  default-value: "Mundo"    
+>>>>>>> b116bd3e3c933e8eb1b25dfc1c45f462b12daa5e
