@@ -9,4 +9,4 @@ management:
           - '*'
 greeting-service: #criando propriedade customizada.
   greeting: "Pronto"
-  default-value: "Mondo"    
+  default-value: "Mondo!"    
